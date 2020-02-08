@@ -1,0 +1,45 @@
+h1{
+  color: pink;
+  text-align: center;
+}
+h2{
+  color: pink;
+  text-align: left;
+}
+img {
+  max-width: 30%;
+  max-height: 30%;
+  float: right;
+}
+body {
+  background-image: url("../img/champe.jpg");
+}
+ul {
+  line-height: 40px;
+  color: #7B7D7D;
+}
+p {
+  color: #D0D3D4;
+}
+ol {
+  color: #7B7D7D;
+}
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: #6C3483;
+}
+.column {
+  width: 350px;
+  float: left;
+}
+.test-box{
+  border: 2px solid gray;
+  padding: 6px;
+  width: 850px;
+  margin: 20px;
+  background-color: #6C3483;
+}
+body {
+  font-family: sans-serif;
+}
