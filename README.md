@@ -14,4 +14,3 @@ Support and contact details
 
 License
 *{GPL}
-{https://muneneee.github.io/project-1/}
